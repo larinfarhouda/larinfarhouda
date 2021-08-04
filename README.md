@@ -1,6 +1,6 @@
 ### Hi there, I'm larin 👋
 
-<img align="right" width="400px" src="https://ibb.co/DfKQYMz" />
+<img align="right" width="400px" src="https://i.ibb.co/chTQw8k/me.png" />
 ## Senior year Software Engineering student
 
 
