@@ -3,14 +3,14 @@
 <img align="right" width="400px" src="https://i.ibb.co/BGC0Y65/lain1.jpg" />
 ## Senior year Software Engineering student
 
+
+- 👋 Hi, I’m @larinfarhouda a Senior software engineering student
+- 👀 I’m interested in programming , designing and editing
 - 🌱 I’m currently learning AI
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me ...
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -41,6 +41,9 @@
 <br />
 <br />
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 ---
 
 ---
@@ -79,11 +82,6 @@
 
 
 
-- 👋 Hi, I’m @larinfarhouda a junior software engineering student
-- 👀 I’m interested in programming , designing and editing
-- 🌱 I’m currently learning microcontroller programming
-- 💞️ I’m looking to collaborate on new open source projects
-- 📫 How to reach me ...
 
 <!---
 larinfarhouda/larinfarhouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
