@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @larinfarhouda a Senior software engineering student
 - 👀 I’m interested in programming , designing and editing
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning ...
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me ...
 
