@@ -1,4 +1,4 @@
-### Hi there, I'm larin 👋
+### Hi there, I'm larin <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" width="400px" src="https://i.ibb.co/zZJ96T8/68747470733a2f2f692e6962622e636f2f6368545177386b2f6d652e706e67-removebg-preview.png"/>
 
